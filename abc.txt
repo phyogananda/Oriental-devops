@@ -1,0 +1,5 @@
+total 4
+drwxrwxr-x.  2 yogananda yogananda   35 Mar 21 19:49 .
+drwx------. 21 yogananda yogananda 4096 Mar 21 19:49 ..
+-rw-rw-r--.  1 yogananda yogananda    0 Mar 21 19:49 abc.txt
+-rw-rw-r--.  1 yogananda yogananda    0 Mar 21 19:49 t1.txt
